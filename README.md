@@ -37,7 +37,7 @@ If you like the model but need to scale or tune it for higher accuracy, check ou
 
 # Installation
 ```
-pip install chatterbox-tts
+pip3 install git+https://github.com/hathibelagal-dev/chatterbox.git
 ```
 
 
