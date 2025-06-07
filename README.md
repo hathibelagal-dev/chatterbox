@@ -22,7 +22,6 @@ If you like the model but need to scale or tune it for higher accuracy, check ou
 - Unique exaggeration/intensity control
 - Ultra-stable with alignment-informed inference
 - Trained on 0.5M hours of cleaned data
-- Watermarked outputs
 - Easy voice conversion script
 - [Outperforms ElevenLabs](https://podonos.com/resembleai/chatterbox)
 
