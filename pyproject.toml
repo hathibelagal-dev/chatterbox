@@ -20,7 +20,8 @@ dependencies = [
     "spacy-pkuseg",
     "pykakasi",
     "pyloudnorm",
-    "omegaconf"
+    "omegaconf",
+    "torchcodec"
 ]
 
 [project.urls]
